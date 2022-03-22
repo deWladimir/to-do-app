@@ -1,3 +1,4 @@
+//
 let taskArray = [];
 let counter = 0;
 let completedTasksArray = [];
